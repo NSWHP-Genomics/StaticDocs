@@ -1,0 +1,2 @@
+# StaticDocs
+Public Docs
